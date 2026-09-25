@@ -1,0 +1,14 @@
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/bin/Debug/net10.0/ConsoleApp_FicheDePaye
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/bin/Debug/net10.0/ConsoleApp_FicheDePaye.deps.json
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/bin/Debug/net10.0/ConsoleApp_FicheDePaye.runtimeconfig.json
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/bin/Debug/net10.0/ConsoleApp_FicheDePaye.dll
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/bin/Debug/net10.0/ConsoleApp_FicheDePaye.pdb
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.GeneratedMSBuildEditorConfig.editorconfig
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.AssemblyInfoInputs.cache
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.AssemblyInfo.cs
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.csproj.CoreCompileInputs.cache
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.dll
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/refint/ConsoleApp_FicheDePaye.dll
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.pdb
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ConsoleApp_FicheDePaye.genruntimeconfig.cache
+/home/alouis/RiderProjects/ConsoleApp_FicheDePaye/ConsoleApp_FicheDePaye/obj/Debug/net10.0/ref/ConsoleApp_FicheDePaye.dll
